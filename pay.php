@@ -1,0 +1,1 @@
+<?php echo"Integrate payment methods here and start download after successful payment.." ;?>
